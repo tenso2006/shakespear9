@@ -8,4 +8,6 @@ Ghost: What are you saying?
 
 Hamlet: I am dead.
 
+Ghost: see you in the dark
+
 THE END
